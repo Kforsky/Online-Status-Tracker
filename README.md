@@ -1,4 +1,4 @@
-# Stanki TeleGram Online Status Tracker
+# Stanki Telegram Online Status Tracker
 A Telegram bot that monitors the online status of users and notifies you instantly!
 
 ## Features
